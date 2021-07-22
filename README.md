@@ -1,8 +1,8 @@
 # coding-blocks-class-questions
 
-### contains solution of questions like
+### contains solutions of questions like
 
-#### Replace all π
+###### Replace all π
 
 
  
