@@ -1,3 +1,5 @@
+### link to assignments
+https://hack.codingblocks.com/app/contests/2503
 # coding-blocks-class-questions
 
 ### contains solutions of questions like
